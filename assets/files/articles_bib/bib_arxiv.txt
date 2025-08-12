@@ -1,0 +1,9 @@
+@misc{minuto2025resourcereductionvariationalquantum,
+      title={Resource reduction for variational quantum algorithms by non-demolition measurements}, 
+      author={Dario Melegari and Rabia Abdul Razaq and Giovanni Minuto and Paolo Solinas},
+      year={2025},
+      eprint={2503.24090},
+      archivePrefix={arXiv},
+      primaryClass={quant-ph},
+      url={https://arxiv.org/abs/2503.24090}, 
+}

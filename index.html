@@ -15,6 +15,12 @@
 	<body class="is-preload">
 
 		<!-- Wrapper -->
+		<!-- To add: sticker with git hub scholar linkedin ecc -->
+		<!-- to change the desciption -->
+		<!-- to change the desciption -->
+
+
+		
 			<div id="wrapper">
 
 				<!-- Header -->
@@ -41,116 +47,146 @@
 
 				<!-- Banner -->
 				<section id="banner" class="major">
-					<div class="inner" style="display: flex; align-items: center; gap: 2rem; flex-wrap: wrap;">
-						
-						<!-- Profile Image -->
-						<div style="flex: 1; min-width: 250px; text-align: center;">
-							<img src="images/gm_picture.jpg" alt="Giovanni Minuto" 
-								 style="width: 250px; height: 250px; object-fit: cover; border-radius: 50%; border: 4px solid #fff;">
-						</div>
-						
-						<!-- Intro Text -->
-						<div style="flex: 2; min-width: 280px;">
-							<header class="major">
-								<h1>Hi, I'm Giovanni Minuto</h1>
-							</header>
-							<div class="content">
-								<p>
-									I'm a <strong>Quantum AI researcher</strong> and algorithm developer, passionate about 
-									combining <strong>quantum computing</strong> and <strong>machine learning</strong> 
-									to solve complex, real-world problems.
-								</p>
-								<ul class="actions">
-									<li>
-										<a href="#projects" class="button next scrolly">View My Projects</a>
-									</li>
-									<li>
-										<a href="assets/files/Giovanni_Minuto_CV.pdf" class="button scrolly" download>
-											Download My CV
-										</a>
-									</li>
-								</ul>
-							</div>
-						</div>
-				
-					</div>
-				</section>
+    <div class="inner profile-banner">
+        
+        <!-- Profile Image -->
+        <div class="profile-image">
+            <img src="images/gm_picture.jpg" alt="Giovanni Minuto">
+        </div>
+        
+        <!-- Intro Text -->
+        <div class="profile-text">
+            <header class="major">
+                <h1>Hi, I'm Giovanni Minuto</h1>
+            </header>
+            <div class="content">
+                <p>
+                    I'm a <strong>Quantum AI researcher</strong> and algorithm developer, passionate about 
+                    combining <strong>quantum computing</strong> and <strong>machine learning</strong> 
+                    to solve complex, real-world problems.
+                </p>
+                <ul class="actions">
+                    <li>
+                        <a href="#projects" class="button next scrolly">View My Projects</a>
+                    </li>
+                    <li>
+                        <a href="assets/files/Giovanni_Minuto_CV.pdf" class="button scrolly" download>
+                            Download My CV
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
 
-				<!-- Main -->
-					<div id="main">
+    </div>
+</section>
 
-						<!-- One -->
-							<section id="one" class="tiles">
-								<article>
-									<span class="image">
-										<img src="images/pic01.jpg" alt="" />
-									</span>
-									<header class="major">
-										<h3><a href="landing.html" class="link">Aliquam</a></h3>
-										<p>Ipsum dolor sit amet</p>
-									</header>
-								</article>
-								<article>
-									<span class="image">
-										<img src="images/pic02.jpg" alt="" />
-									</span>
-									<header class="major">
-										<h3><a href="landing.html" class="link">Tempus</a></h3>
-										<p>feugiat amet tempus</p>
-									</header>
-								</article>
-								<article>
-									<span class="image">
-										<img src="images/pic03.jpg" alt="" />
-									</span>
-									<header class="major">
-										<h3><a href="landing.html" class="link">Magna</a></h3>
-										<p>Lorem etiam nullam</p>
-									</header>
-								</article>
-								<article>
-									<span class="image">
-										<img src="images/pic04.jpg" alt="" />
-									</span>
-									<header class="major">
-										<h3><a href="landing.html" class="link">Ipsum</a></h3>
-										<p>Nisl sed aliquam</p>
-									</header>
-								</article>
-								<article>
-									<span class="image">
-										<img src="images/pic05.jpg" alt="" />
-									</span>
-									<header class="major">
-										<h3><a href="landing.html" class="link">Consequat</a></h3>
-										<p>Ipsum dolor sit amet</p>
-									</header>
-								</article>
-								<article>
-									<span class="image">
-										<img src="images/pic06.jpg" alt="" />
-									</span>
-									<header class="major">
-										<h3><a href="landing.html" class="link">Etiam</a></h3>
-										<p>Feugiat amet tempus</p>
-									</header>
-								</article>
-							</section>
+<style>
+/* Banner container: side-by-side on desktop, stacked on mobile */
+.profile-banner {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    flex-wrap: wrap;
+}
 
-						<!-- Two -->
-							<section id="two">
-								<div class="inner">
-									<header class="major">
-										<h2>Massa libero</h2>
-									</header>
-									<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
-									<ul class="actions">
-										<li><a href="landing.html" class="button next">Get Started</a></li>
-									</ul>
-								</div>
-							</section>
+/* Profile image styling */
+.profile-image {
+    flex: 1;
+    min-width: 250px;
+    text-align: center;
+}
+.profile-image img {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 4px solid #fff;
+}
 
-					</div>
+/* Text section styling */
+.profile-text {
+    flex: 2;
+    min-width: 280px;
+}
+
+/* Make buttons full width on small screens */
+@media (max-width: 768px) {
+    .actions .button {
+        width: 100%;
+        text-align: center;
+    }
+}
+</style>
+<!-- Main -->
+<div id="main">
+
+    <!-- One -->
+    <section id="one" class="tiles">
+        
+        <!-- Work Experience -->
+        <article>
+            <span class="image">
+                <img src="images/pic01.jpg" alt="Work Experience" />
+            </span>
+            <header class="major">
+                <h3><a href="work-experience.html" class="link">Work Experience</a></h3>
+                <p>Quantum Algorithms Developer at Pasqal and Teaching Assistant in Quantum Computing.</p>
+            </header>
+        </article>
+
+        <!-- Publications -->
+        <article>
+            <span class="image">
+                <img src="images/pic02.jpg" alt="Publications" />
+            </span>
+            <header class="major">
+                <h3><a href="publications.html" class="link">Publications</a></h3>
+                <p>Research on gradient optimization in variational quantum algorithms, published in top journals.</p>
+            </header>
+        </article>
+
+        <!-- University Experience -->
+        <article>
+            <span class="image">
+                <img src="images/pic03.jpg" alt="University Experience" />
+            </span>
+            <header class="major">
+                <h3><a href="university-experience.html" class="link">University Experience</a></h3>
+                <p>PhD in Quantum Machine Learning, MSc and BSc in Physics, specializing in quantum computing.</p>
+            </header>
+        </article>
+
+        <!-- Life Logs -->
+        <article>
+            <span class="image">
+                <img src="images/pic04.jpg" alt="Conferences and Activities" />
+            </span>
+            <header class="major">
+                <h3><a href="conferences.html" class="link">Conferences & Activities</a></h3>
+                <p>Speaker and participant at international quantum computing and machine learning events.</p>
+            </header>
+        </article>
+
+    </section>
+
+    <!-- Two -->
+    <section id="two">
+        <div class="inner">
+            <header class="major">
+                <h2>About This Portfolio</h2>
+            </header>
+            <p>
+                This portfolio showcases my professional journey in quantum machine learning, including research projects, publications, and contributions to open-source software.  
+                Explore the sections to learn more about my work at Pasqal, academic research, and personal achievements.
+            </p>
+            <ul class="actions">
+                <li><a href="#projects" class="button next">Explore Projects</a></li>
+            </ul>
+        </div>
+    </section>
+
+</div>
 
 				<!-- Contact -->
 					<section id="contact">

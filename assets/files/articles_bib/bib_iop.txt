@@ -1,0 +1,10 @@
+@article{Minuto2025QNDM,
+  author       = {G. Minuto and D. Melegari and S. Caletti and P. Solinas},
+  title        = {A novel approach to reduce derivative costs in variational quantum algorithms},
+  journal      = {Journal of Physics A: Mathematical and Theoretical},
+  year         = {2025},
+  volume       = {58},
+  pages        = {185301},
+  doi          = {10.1088/1751-8121/adcf62},
+  note         = {Published 29 April 2025}
+}

@@ -1,0 +1,12 @@
+@article{Minuto_2023,
+   title={Quantum gradient evaluation through quantum non-demolition measurements},
+   volume={77},
+   ISSN={1434-6079},
+   url={http://dx.doi.org/10.1140/epjd/s10053-023-00648-y},
+   DOI={10.1140/epjd/s10053-023-00648-y},
+   number={5},
+   journal={The European Physical Journal D},
+   publisher={Springer Science and Business Media LLC},
+   author={Solinas, Paolo and Caletti, Simone and Minuto, Giovanni},
+   year={2023},
+   month=may }
