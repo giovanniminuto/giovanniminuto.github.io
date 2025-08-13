@@ -1,77 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
+  <url>
+    <loc>https://giovanniminuto.github.io/</loc>
+    <lastmod>2025-08-13</lastmod>
+    <priority>1.00</priority>
+  </url>
 
-<url>
-  <loc>https://giovanniminuto.github.io/</loc>
-  <lastmod>2025-08-13T12:29:04+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://giovanniminuto.github.io/index.html</loc>
-  <lastmod>2025-08-13T12:29:04+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://giovanniminuto.github.io/work-experience.html</loc>
-  <lastmod>2025-08-13T12:29:04+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://giovanniminuto.github.io/publications.html</loc>
-  <lastmod>2025-08-13T12:29:04+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://giovanniminuto.github.io/education.html</loc>
-  <lastmod>2025-08-13T12:29:04+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://giovanniminuto.github.io/conferences.html</loc>
-  <lastmod>2025-08-13T12:29:04+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://giovanniminuto.github.io/assets/files/articles_pdf/minuto_2025_a_anovel_approach.pdf</loc>
-  <lastmod>2025-08-13T12:29:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://giovanniminuto.github.io/assets/files/articles_bib/bib_iop.txt</loc>
-  <lastmod>2025-08-13T12:29:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://giovanniminuto.github.io/assets/files/articles_bib/bib_arxiv.txt</loc>
-  <lastmod>2025-08-13T12:29:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://giovanniminuto.github.io/assets/files/articles_bib/bib_springer.txt</loc>
-  <lastmod>2025-08-13T12:29:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://giovanniminuto.github.io/assets/files/reference_letters/ref_sol_phd.pdf</loc>
-  <lastmod>2025-08-13T12:29:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://giovanniminuto.github.io/assets/files/reference_letters/ref_verri_phd.pdf</loc>
-  <lastmod>2025-08-13T12:29:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://giovanniminuto.github.io/generic.html</loc>
-  <lastmod>2025-08-13T12:29:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
+  <url>
+    <loc>https://giovanniminuto.github.io/index.html</loc>
+    <lastmod>2025-08-13</lastmod>
+    <priority>0.80</priority>
+  </url>
 
+  <url>
+    <loc>https://giovanniminuto.github.io/work-experience.html</loc>
+    <lastmod>2025-08-13</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://giovanniminuto.github.io/publications.html</loc>
+    <lastmod>2025-08-13</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://giovanniminuto.github.io/education.html</loc>
+    <lastmod>2025-08-13</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://giovanniminuto.github.io/conferences.html</loc>
+    <lastmod>2025-08-13</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://giovanniminuto.github.io/generic.html</loc>
+    <lastmod>2025-08-13</lastmod>
+    <priority>0.64</priority>
+  </url>
 
 </urlset>
