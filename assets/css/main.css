@@ -2151,7 +2151,7 @@ input, select, textarea {
 	}
 
 	a.icon.alt:hover:before {
-		background-color: #6fc3df;
+		background-color: #00A070;
 	}
 
 	a.icon.alt:active:before {
@@ -2831,7 +2831,7 @@ input, select, textarea {
 			}
 
 			.tiles article:nth-child(6n - 5):before {
-				background-color: #6fc3df;
+				background-color: #00A070;
 			}
 
 			.tiles article:nth-child(6n - 4):before {
@@ -2839,7 +2839,7 @@ input, select, textarea {
 			}
 
 			.tiles article:nth-child(6n - 3):before {
-				background-color: #ec8d81;
+				background-color: #f56a6a;
 			}
 
 			.tiles article:nth-child(6n - 2):before {
@@ -3259,7 +3259,7 @@ input, select, textarea {
 		}
 
 			#header.alt.style1 .logo strong {
-				color: #6fc3df;
+				color: #00A070;
 			}
 
 			#header.alt.style2 .logo strong {
@@ -3267,7 +3267,7 @@ input, select, textarea {
 			}
 
 			#header.alt.style3 .logo strong {
-				color: #ec8d81;
+				color: #f56a6a;
 			}
 
 			#header.alt.style4 .logo strong {
@@ -3491,7 +3491,7 @@ input, select, textarea {
 			}
 
 		#banner.style1:after {
-			background-color: #6fc3df;
+			background-color: #00A070;
 		}
 
 		#banner.style2:after {
@@ -3499,7 +3499,7 @@ input, select, textarea {
 		}
 
 		#banner.style3:after {
-			background-color: #ec8d81;
+			background-color: #f56a6a;
 		}
 
 		#banner.style4:after {
