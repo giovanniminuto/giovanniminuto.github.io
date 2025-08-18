@@ -2843,7 +2843,7 @@ input, select, textarea {
 			}
 
 			.tiles article:nth-child(6n - 2):before {
-				background-color: #e7b788;
+				background-color: #F7C873;
 			}
 
 			.tiles article:nth-child(6n - 1):before {
@@ -3271,7 +3271,7 @@ input, select, textarea {
 			}
 
 			#header.alt.style4 .logo strong {
-				color: #e7b788;
+				color: #F7C873;
 			}
 
 			#header.alt.style5 .logo strong {
@@ -3503,7 +3503,7 @@ input, select, textarea {
 		}
 
 		#banner.style4:after {
-			background-color: #eac86e;
+			background-color: #F7C873;
 		}
 
 		#banner.style5:after {
