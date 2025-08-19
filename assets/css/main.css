@@ -2340,6 +2340,28 @@ input, select, textarea {
 				width: 100%;
 			}
 
+/* Make .actions auto-stack on small screens */
+	@media screen and (max-width: 768px) {
+		ul.actions {
+		flex-direction: column;
+		margin-left: 0; /* cancel the -1em */
+		}
+	
+		ul.actions li {
+		padding: 0.75em 0 0 0; /* vertical spacing */
+		}
+	
+		ul.actions li:first-child {
+		padding-top: 0;
+		}
+	
+		ul.actions li > * {
+		width: 100%;       /* make buttons fill width */
+		text-align: center; /* center text */
+		}
+	}
+
+
 /* Icons */
 
 	ul.icons {
