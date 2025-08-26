@@ -1,32 +1,37 @@
-Giovanni Minuto – Portfolio
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Giovanni Minuto – Portfolio
 
+Welcome to my personal **portfolio website**, built to showcase my work in **Machine Learning, Quantum AI, and Algorithm Development**.  
+You can visit the live portfolio here: [https://giovanniminuto.github.io](https://giovanniminuto.github.io) 🚀
 
-This is Forty, my latest and greatest addition to HTML5 UP and, per its incredibly
-creative name, my 40th (woohoo)! It's built around a grid of "image tiles" that are
-set up to smoothly transition to secondary landing pages (for which a separate page
-template is provided), and includes a number of neat effects (check out the menu!),
-extra features, and all the usual stuff you'd expect. Hope you dig it!
+## About Me
+I am an **Algorithms Developer** with 3+ years of experience in the Machine Learning industry, currently completing a **Ph.D. in Quantum Artificial Intelligence** at Sapienza University.  
+My work spans **R&D projects, consulting, and academic research**, focusing on transforming cutting-edge methods into practical solutions.  
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+🔹 Interested in **Machine Learning, Quantum Computing, and Optimization**  
+🔹 Open to new opportunities from **November 1st** in **Turin** or **remote**  
 
-(* = not included)
+📄 [Download my CV](assets/files/Giovanni_Minuto_CV.pdf)  
+📧 Contact me: [minutogiovanni@gmail.com](mailto:minutogiovanni@gmail.com)
 
-AJ
-aj@lkn.io | @ajlkn
+## Project Overview
+This repository contains the source code for my personal portfolio website.  
+It was built using the **Forty template by HTML5 UP** and customized to highlight my projects, research, and professional background.
 
+### Features
+- Responsive design optimized for desktop & mobile  
+- Project showcase with smooth image transitions  
+- Integrated CV download and contact links  
+- Clean, minimal layout for readability  
 
-Credits:
+## Credits
+This website is based on the **Forty** template by [HTML5 UP](https://html5up.net), released under the CCA 3.0 license.  
+Additional credits:  
+- **Images**: [Unsplash](https://unsplash.com)  
+- **Icons**: [Font Awesome](https://fontawesome.io)  
+- **Libraries**: [jQuery](https://jquery.com), [Scrollex](https://github.com/ajlkn/jquery.scrollex), [Responsive Tools](https://github.com/ajlkn/responsive-tools)  
 
-	Demo Images:
-		Unsplash (unsplash.com)
+---
 
-	Icons:
-		Font Awesome (fontawesome.io)
+✨ With this version, your README introduces **you and your portfolio** instead of just describing the template. It keeps the licensing info but adds your CV, contact, and portfolio purpose.  
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Do you want me to also add a **“How to Run Locally” section** (so others can clone and test the site), or should it stay more recruiter-oriented?
