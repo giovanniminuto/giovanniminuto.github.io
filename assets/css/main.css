@@ -3451,7 +3451,7 @@ input, select, textarea {
 		.profile-text {
 		padding: 0 1rem;
 		}
-		.profile-image img {
+		.major img {
 		width: 180px;
 		height: 180px;
 		}
@@ -3507,7 +3507,7 @@ input, select, textarea {
 		}
 
 		#banner h1 {
-			font-size: 2.5em;
+			font-size: 3em;
 		}
 
 		#banner > .inner {
