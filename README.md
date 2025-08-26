@@ -10,7 +10,7 @@ My work spans **R&D projects, consulting, and academic research**, focusing on t
 🔹 Interested in **Machine Learning, Quantum Computing, and Optimization**  
 🔹 Open to new opportunities from **November 1st** in **Turin** or **remote**  
 
-📄 [Download my CV](assets/files/Giovanni_Minuto_CV.pdf)  
+📄 [Download my CV](assets/files/giovanni_minuto_cv.pdf)  
 📧 Contact me: [minutogiovanni@gmail.com](mailto:minutogiovanni@gmail.com)
 
 ## Project Overview
@@ -29,9 +29,3 @@ Additional credits:
 - **Images**: [Unsplash](https://unsplash.com)  
 - **Icons**: [Font Awesome](https://fontawesome.io)  
 - **Libraries**: [jQuery](https://jquery.com), [Scrollex](https://github.com/ajlkn/jquery.scrollex), [Responsive Tools](https://github.com/ajlkn/responsive-tools)  
-
----
-
-✨ With this version, your README introduces **you and your portfolio** instead of just describing the template. It keeps the licensing info but adds your CV, contact, and portfolio purpose.  
-
-Do you want me to also add a **“How to Run Locally” section** (so others can clone and test the site), or should it stay more recruiter-oriented?
