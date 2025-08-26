@@ -10,7 +10,7 @@ My work spans **R&D projects, consulting, and academic research**, focusing on t
 🔹 Interested in **Machine Learning, Quantum Computing, and Optimization**  
 🔹 Open to new opportunities from **November 1st** in **Turin** or **remote**  
 
-📄 [Download my CV](assets/files/giovanni_minuto_cv.pdf)  
+📄 [Download my CV](https://giovanniminuto.github.io/assets/files/giovanni_minuto_cv.pdf)  
 📧 Contact me: [minutogiovanni@gmail.com](mailto:minutogiovanni@gmail.com)
 
 ## Project Overview
