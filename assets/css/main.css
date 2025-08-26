@@ -3407,8 +3407,8 @@ input, select, textarea {
 	}
 	
 	.profile-image img {
-		width: 220px;
-		height: 220px;
+		width: 320px;
+		height: 320px;
 		object-fit: cover;
 		border-radius: 50%;
 		border: 4px solid #fff;
@@ -3507,7 +3507,7 @@ input, select, textarea {
 		}
 
 		#banner h1 {
-			font-size: 3.25em;
+			font-size: 2.5em;
 		}
 
 		#banner > .inner {
@@ -3614,15 +3614,15 @@ input, select, textarea {
 			opacity: 0;
 		}
 
-		@media screen and (max-width: 1280px) {
+		/* @media screen and (max-width: 1280px) {
 
 			#banner {
 				background-attachment: scroll;
 			}
 
-		}
+		} */
 
-		@media screen and (max-width: 768px) {
+		@media screen and (max-width: 1280px) {
 
 			#banner {
 				padding: 5em 0 1em 0 ;
@@ -3634,7 +3634,7 @@ input, select, textarea {
 			}
 
 				#banner h1 {
-					font-size: 2em;
+					font-size: 2.5em;
 				}
 
 				#banner > .inner .content {
